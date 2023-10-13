@@ -1,4 +1,4 @@
-package org.quickstart;
+package org.pandasdojo;
 
 public class Main {
   public static void main(String[] args) {
